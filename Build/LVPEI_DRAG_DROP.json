@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ExamWarrior_LowerVersion",
+"productVersion": "0.1",
+"dataUrl": "LVPEI_DRAG_DROP.data.unityweb",
+"wasmCodeUrl": "LVPEI_DRAG_DROP.wasm.code.unityweb",
+"wasmFrameworkUrl": "LVPEI_DRAG_DROP.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.12f1"
+}
